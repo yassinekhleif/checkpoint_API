@@ -1,0 +1,16 @@
+.user-card {
+    margin-bottom: 20px;
+  }
+  
+  .user-name {
+    color: blue;
+  }
+  
+  .user-email {
+    font-style: italic;
+  }
+  
+  .user-divider {
+    border-top: 1px solid gray;
+  }
+  
